@@ -1,0 +1,133 @@
+
+
+@font-face {
+  font-family: "Upgrade-Hairline_Italic";
+  src: url("Upgrade-Hairline_Italic.eot") format("eot"),
+  url("Upgrade-Hairline_Italic.woff2") format("woff2"),
+  url("Upgrade-Hairline_Italic.woff") format("woff");
+}
+@font-face {
+  font-family: "Upgrade-Thin";
+  src: url("Upgrade-Thin.eot") format("eot"),
+  url("Upgrade-Thin.woff2") format("woff2"),
+  url("Upgrade-Thin.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Upgrade-Thin_Italic";
+  src: url("Upgrade-Thin_Italic.eot") format("eot"),
+  url("Upgrade-Thin_Italic.woff2") format("woff2"),
+  url("Upgrade-Thin_Italic.woff") format("woff");
+}
+@font-face {
+  font-family: "Upgrade-Thin";
+  src: url("Upgrade-Thin.eot") format("eot"),
+  url("Upgrade-Thin.woff2") format("woff2"),
+  url("Upgrade-Thin.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Upgrade-ExtraLight_Italic";
+  src: url("Upgrade-ExtraLight_Italic.eot") format("eot"),
+  url("Upgrade-ExtraLight_Italic.woff2") format("woff2"),
+  url("Upgrade-ExtraLight_Italic.woff") format("woff");
+}
+@font-face {
+  font-family: "Upgrade-ExtraLight";
+  src: url("Upgrade-ExtraLight.eot") format("eot"),
+  url("Upgrade-ExtraLight.woff2") format("woff2"),
+  url("Upgrade-ExtraLight.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Upgrade-Light_Italic";
+  src: url("Upgrade-Light_Italic.eot") format("eot"),
+  url("Upgrade-Light_Italic.woff2") format("woff2"),
+  url("Upgrade-Light_Italic.woff") format("woff");
+}
+@font-face {
+  font-family: "Upgrade-Light";
+  src: url("Upgrade-Light.eot") format("eot"),
+  url("Upgrade-Light.woff2") format("woff2"),
+  url("Upgrade-Light.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Upgrade-RegularItalic";
+  src: url("Upgrade-Italic.eot") format("eot"),
+  url("Upgrade-Italic.woff2") format("woff2"),
+  url("Upgrade-Italic.woff") format("woff");
+}
+@font-face {
+  font-family: "Upgrade-Regular";
+  src: url("Upgrade-Regular.eot") format("eot"),
+  url("Upgrade-Regular.woff2") format("woff2"),
+  url("Upgrade-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Upgrade-BookItalic";
+  src: url("Upgrade-Book_Italic.eot") format("eot"),
+  url("Upgrade-Book_Italic.woff2") format("woff2"),
+  url("Upgrade-Book_Italic.woff") format("woff");
+}
+@font-face {
+  font-family: "Upgrade-Book";
+  src: url("Upgrade-Book.eot") format("eot"),
+  url("Upgrade-Book.woff2") format("woff2"),
+  url("Upgrade-Book.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Upgrade-MediumItalic";
+  src: url("Upgrade-Medium_Italic.eot") format("eot"),
+  url("Upgrade-Medium_Italic.woff2") format("woff2"),
+  url("Upgrade-Medium_Italic.woff") format("woff");
+}
+@font-face {
+  font-family: "Upgrade-Medium";
+  src: url("Upgrade-Medium.eot") format("eot"),
+  url("Upgrade-Medium.woff2") format("woff2"),
+  url("Upgrade-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Upgrade-SemiboldItalic";
+  src: url("Upgrade-Semibold_Italic.eot") format("eot"),
+  url("Upgrade-Semibold_Italic.woff2") format("woff2"),
+  url("Upgrade-Semibold_Italic.woff") format("woff");
+}
+@font-face {
+  font-family: "Upgrade-Semibold";
+  src: url("Upgrade-Semibold.eot") format("eot"),
+  url("Upgrade-Semibold.woff2") format("woff2"),
+  url("Upgrade-Semibold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Upgrade-BoldItalic";
+  src: url("Upgrade-Bold_Italic.eot") format("eot"),
+  url("Upgrade-Bold_Italic.woff2") format("woff2"),
+  url("Upgrade-Bold_Italic.woff") format("woff"),
+}
+@font-face {
+  font-family: "Upgrade-Bold";
+  src: url("Upgrade-Bold.eot") format("eot"),
+  url("Upgrade-Bold.woff2") format("woff2"),
+  url("Upgrade-Bold.woff") format("woff");
+}
+ 
+@font-face {
+    font-family: "PowerLift_UltraBlackOutline";
+    src:    url('PowerLift-UltraBlack_Outline24_web.eot'),
+            url('PowerLift-UltraBlack_Outline24_web.woff') format('woff'),
+            url('PowerLift-UltraBlack_Outline24_web.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'PowerLift_UltraBlack';
+    src:    url('PowerLift-UltraBlack24_web.eot'),
+            url('PowerLift-UltraBlack24_web.woff') format('woff'),
+            url('PowerLift-UltraBlack24_web.woff2') format('woff2');
+}
+
