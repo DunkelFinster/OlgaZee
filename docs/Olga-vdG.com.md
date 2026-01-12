@@ -1,5 +1,5 @@
 ~~~
-doc.title = 'OLGA ZEE'
+doc.title = 'OLGA vdG'
 
 # Uncomment to see cssId/cssClass markers in the page
 #doc.view.showIdClass = True
@@ -57,7 +57,7 @@ section = content.newSection()
 box = section.newIntroduction()
 ~~~
 
-# Some blahblah about Olga
+# Some info about what vdG means
 
 ~~~
 box = section.newMain() # This is the main column on the left
@@ -68,7 +68,7 @@ more blah blah
 
 ---
 
-## Olga Zee bio
+## Olga vdG bio
 
 **Where is Siberia?** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -76,7 +76,7 @@ more blah blah
 box = section.newSide() # This is the side column on the right
 ~~~
 
-## Olga Zee bio
+## Olga vdG bio
 
 **Where is Siberia?** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -103,7 +103,7 @@ page.url = 'shows2019.html' # This makes the menu
 content = page.select('Content')
 box = content.newBanner()
 ~~~
-# Title of the page
+# click me, we'll see what that is
 ~~~
 section = content.newSection()
 box = section.newIntroduction()
